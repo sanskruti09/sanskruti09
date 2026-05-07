@@ -127,7 +127,6 @@ Applied to precision agriculture — published August 2023.
 
 ### Let's connect
 
-I'm actively looking for full-time GenAI / ML engineering roles.
 If you're building something interesting with LLMs, RAG, or voice AI — let's talk.
 
 📬 kekanskruti33@gmail.com
