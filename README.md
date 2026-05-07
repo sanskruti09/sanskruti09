@@ -12,7 +12,6 @@
   <a href="mailto:kekanskruti33@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-%2300b300?style=flat"/>
   <img src="https://komarev.com/ghpvc/?username=sanskruti09&color=7c3aed&style=flat"/>
 </p>
 
